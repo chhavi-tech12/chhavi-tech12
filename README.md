@@ -1,15 +1,30 @@
 # Hi, I'm Chhavi
 
-I'm a BTech student with a growing interest in technology, data, and problem-solving.
-I enjoy working with data to understand patterns and turn them into meaningful insights.
+- B.Tech Electronics & Computer Science — 6th Semester
+  Punjab, India
+- I like turning raw information into something meaningful.
+- I'm currently exploring data, analytics, and tech —  building projects, learning tools, and figuring out  what I want to do next.
+
+# Things I'm working with
+Excel  
+Tableau 
+SQL 
+Power BI 
+Python 
+
+# Projects
+Project - Tools - Link 
+- Bike Sales Analysis - Excel, Pivot Tables
+- [View](https://github.com/chhavi-tech12/bike_sales_analysis) 
+
+# Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url-here)
 
 # Skills
 - Excel 
 - SQL 
 - Tableau 
 
-# Projects
-- Bike Sales Analysis Dashboard (Excel)
 
 I’m actively building projects and continuously improving my skills by learning and applying them in practical scenarios.
 
