@@ -6,11 +6,7 @@
 - I'm currently exploring data, analytics, and tech —  building projects, learning tools, and figuring out  what I want to do next.
 
 # Things I'm working with
-Excel  
-Tableau 
-SQL 
-Power BI 
-Python 
+Excel ,Tableau, SQL, Power BI,  Python 
 
 # Projects
 Project - Tools - Link 
@@ -18,13 +14,14 @@ Project - Tools - Link
 - [View](https://github.com/chhavi-tech12/bike_sales_analysis) 
 
 # Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]()
 
 # Skills
 - Excel 
 - SQL 
 - Tableau 
-
+- Power BI 
+- Python 
 
 I’m actively building projects and continuously improving my skills by learning and applying them in practical scenarios.
 
